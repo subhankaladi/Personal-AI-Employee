@@ -1,0 +1,25 @@
+# Silver Tier AI Employee Requirements
+# Install with: pip install -r requirements.txt
+
+# Watchdog (filesystem monitoring)
+watchdog==3.0.0
+
+# Google APIs (Gmail integration)
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.100.0
+
+# Playwright (browser automation for WhatsApp & LinkedIn)
+playwright==1.40.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Web scraping and HTTP
+requests==2.31.0
+
+# Optional: Twilio (alternative WhatsApp integration)
+# twilio==8.10.0
+
+# Optional: LinkedIn API (alternative LinkedIn integration)
+# linkedin-python==0.1.0
