@@ -16,3 +16,14 @@ build
 *.bak
 *.tmp
 *.cover
+
+# Sensitive credentials and secrets
+credentials.json
+
+# Browser session data
+linkedin_session/
+whatsapp_session/
+
+# IDE and editor folders
+.claude/
+.vscode/

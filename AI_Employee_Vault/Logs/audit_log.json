@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-02-20T12:53:24.404252",
+    "period_start": "2026-02-16",
+    "period_end": "2026-02-22",
+    "revenue": {
+      "this_week": 0,
+      "mtd": 0,
+      "target": 10000,
+      "projects": {},
+      "percentage_of_target": 0.0
+    },
+    "completed_tasks": {
+      "count": 4,
+      "tasks": [
+        {
+          "name": "---",
+          "file": "INBOX_test_task_PROCESSED.md",
+          "completed": 1771351961.0975938
+        },
+        {
+          "name": "---",
+          "file": "PLAN_test_task_COMPLETED.md",
+          "completed": 1771351976.4098914
+        },
+        {
+          "name": "\ud83d\udccb Inbox Processing Summary",
+          "file": "PROCESSING_SUMMARY.md",
+          "completed": 1771352209.874519
+        },
+        {
+          "name": "",
+          "file": "test_task_PROCESSED.md",
+          "completed": 1771351669.8977897
+        }
+      ]
+    },
+    "bottlenecks": [],
+    "subscriptions": [],
+    "recommendations": [
+      {
+        "type": "revenue",
+        "priority": "high",
+        "title": "Revenue below target",
+        "description": "Only 0% of monthly target achieved.",
+        "action": "Focus on closing new deals",
+        "target": 10000,
+        "current": 0
+      }
+    ]
+  }
+]
